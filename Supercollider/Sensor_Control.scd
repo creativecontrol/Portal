@@ -1,0 +1,3 @@
+/*
+Sensor control definitions
+*/
